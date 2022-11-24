@@ -2,10 +2,7 @@ public class login
 {
         public static void main(string args[])
         {
-                int a = 30;
-
-                int a = 20;
-
+                int a = 25;
 
                 for (i=0;i<=10;i++)
                 {
