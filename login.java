@@ -4,6 +4,9 @@ public class login
         {
                 int a = 30;
 
+                int a = 20;
+
+
                 for (i=0;i<=10;i++)
                 {
                         system.out.println ("Number: " +a);
